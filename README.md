@@ -19,5 +19,5 @@ link:https://github.com/dntlr0611/processing/blob/master/vector
 이번 문제는 P3D, P2D라는 것을 알 수 있는 코드입니다.<br>
 이 코드는 마우스에 따라 왼쪽으로 가면 오른쪽으로 오른쪽으로 가면 왼쪽으로 도형이 이동되어 집니다.<br>ㅇ
 이 코드는 실제 눈에 따라서 왼쪽 눈과 오른쪽 눈의 특성을 이용하여 카메라와 같은 실제 카메라가 주어지지 않았지만 카메라처럼 오른쪽으로 보면 왼쪽으로 보이게 되고 왼쪽으로 보면 오른쪽으로 보이게 되는 점을 활용한 코드입니다. <br>
-processig link: https://processing.org/tutorials/p3d/
-github link:
+processig link: https://processing.org/tutorials/p3d/ <br>
+github link:https://github.com/dntlr0611/processing/blob/master/camera
