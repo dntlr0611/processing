@@ -9,7 +9,7 @@ link : https://github.com/dntlr0611/processing/blob/master/figure
 <h1> pshape </h1>
 여기서는 꼭지점을 지정하여 별을 만들어서 rotate시켜주는 함수입니다. <br>
 집중할 점은 rotate를 통해서 회전시키는 점과, vertax가 꼭지점이라는 점을 유의하시면 되겠습니다. <br>
-link :
+link : https://github.com/dntlr0611/processing/blob/master/pshape
 <h1> </h1>
 link:
 <h1> </h1>
