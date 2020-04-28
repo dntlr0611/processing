@@ -18,6 +18,7 @@ link:https://github.com/dntlr0611/processing/blob/master/vector
 <h1> P3D camera </h1>
 이번 문제는 P3D, P2D라는 것을 알 수 있는 코드입니다.<br>
 이 코드는 마우스에 따라 왼쪽으로 가면 오른쪽으로 오른쪽으로 가면 왼쪽으로 도형이 이동되어 집니다.<br>ㅇ
-이 코드는 실제 눈에 따라서 왼쪽 눈과 오른쪽 눈의 특성을 이용하여 카메라와 같은 실제 카메라가 주어지지 않았지만 카메라처럼 오른쪽으로 보면 왼쪽으로 보이게 되고 왼쪽으로 보면 오른쪽으로 보이게 되는 점을 활용한 코드입니다. <br>
+이 코드는 실제 눈에 따라서 왼쪽 눈과 오른쪽 눈의 특성을 이용하여 카메라와 같은 실제 카메라가 주어지지 않았지만 카메라처럼 오른쪽으로 보면 왼쪽으로 보이게 되고 왼쪽으로 보면 오른쪽으로 보이게 되는 점을 활용한 코드입니다.<br>
+여기서 camera함수에서는 camera(eyeX, eyeY, eyeZ, centerX, centerY, centerZ, upX, upY, upZ); 이렇게 쓰이는데, 처음의 3부분은 눈의 위치, 그다음 3부분은 센터의 위치 그다음 3부분은 x,y,z의 변경부분입니다.
 processig link: https://processing.org/tutorials/p3d/ <br>
 github link:https://github.com/dntlr0611/processing/blob/master/camera
